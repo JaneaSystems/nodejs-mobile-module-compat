@@ -1,7 +1,7 @@
 Node.js for Mobile Apps - Module compatibility issues
 ====================================
 
-The purpose of this repository is to track and discuss compatibility issues of public npm modules with [Node.js for Mobile Apps](https://github.com/janeasystems/nodejs-mobile). Only issues regarding modules found on npm should be opened here. For modules that are included in the core library or the React Native / Cordova plugins, please open an issue in the [main project repo](https://github.com/janeasystems/nodejs-mobile).
+The purpose of this repository is to track and discuss compatibility issues of public npm modules with [Node.js for Mobile Apps](https://github.com/nodejs-mobile/nodejs-mobile). Only issues regarding modules found on npm should be opened here. For modules that are included in the core library or the React Native / Cordova plugins, please open an issue in the [main project repo](https://github.com/nodejs-mobile/nodejs-mobile).
 
 Given the large number of modules in the npm registry, this is intended to be an effort driven primarily by the developer community. 
 
